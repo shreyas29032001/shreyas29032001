@@ -30,7 +30,7 @@ A passionate **Data Analyst** & Aspiring **Full Stack Developer** from India
 ### 🔹 Languages & Frameworks
 - 🐍 Python | ☕ Java | 🛢️ SQL  
 - 🌐 HTML5 | 🎨 CSS3 | ⚙️ JavaScript  
-- 🚀 Django | 🌱 Spring | 🧩 Hibernate  
+
 
 ### 🔹 Libraries & Tools
 - 📊 Pandas | ➗ NumPy | 📈 Matplotlib | 🌈 Seaborn  
