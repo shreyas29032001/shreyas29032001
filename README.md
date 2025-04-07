@@ -12,7 +12,7 @@ A passionate **Data Analyst** & Aspiring **Full Stack Developer** from India
 📈 Skilled in analyzing, visualizing & presenting data to help drive strategic business decisions  
 🤝 Open to collaboration on real-world data and development projects  
 📫 How to reach me: **shreyaskhandare29@gmail.com** | 📱 +91-8329093141  
-📄 [My Resume](https://drive.google.com/file/d/1JqvpMYzTYDaLp7KMMyPpWz_hPWzsbfs_/view?usp=drive_link)
+📄 [My Resume]()
 
 ---
 
